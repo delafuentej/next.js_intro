@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 export default function Home() {
     return (
-        <Layout>
+        <Layout home>
         <Head>
             <title>{siteTitle}</title>
 
